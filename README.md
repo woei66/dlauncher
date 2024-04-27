@@ -21,4 +21,4 @@ You must provide your own branding if you want to distribute your own builds.
 
 # Contribution License Agreement (CLA)
 
-You must sign a [Contribution License Agreement (CLA)](https://tripbnb.com/cla.php){:target="\_blank"} before your PR will be merged. This a one-time requirement for dLauncher projects on GitHub.
+You must sign a <a href="https://tripbnb.com/cla.php" target=_blank>Contribution License Agreement (CLA)</a> before your PR will be merged. This a one-time requirement for dLauncher projects on GitHub.
