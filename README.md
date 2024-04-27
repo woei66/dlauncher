@@ -1,11 +1,11 @@
 # Introduction
 
-DLauncher is a new Minecraft launcher which is developed by Flutter+Dart+RUST and the goal of this launcher is fast, cross-platform and flexible.
+dLauncher is a new Minecraft launcher which is developed by Flutter+Dart+RUST and the goal of this launcher is fast, cross-platform and flexible.
 Welcome to ask questions, new features and enhancements.
 
 # License
 
-Copyright © 2024-2025 DLauncher Contributors
+Copyright © 2024-2025 dLauncher Contributors
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
@@ -15,10 +15,10 @@ The license gives you access to the source is built from, but not:
 
 The name, logo and other branding.
 The API tokens required to talk to services that the launcher depends on.
-Because of the nature of the agreements required to interact with the Microsoft identity platform, it's impossible for us to continue allowing everyone to build the code as 'DLauncher'.
+Because of the nature of the agreements required to interact with the Microsoft identity platform, it's impossible for us to continue allowing everyone to build the code as 'dLauncher'.
 
 You must provide your own branding if you want to distribute your own builds.
 
 # Contribution License Agreement (CLA)
 
-You must sign a <a href="https://tripbnb.com/cla.php" target=_blank>Contribution License Agreement (CLA)</a> before your PR will be merged. This a one-time requirement for dLauncher projects on GitHub.
+You must sign a [Contribution License Agreement (CLA)](https://tripbnb.com/cla.php) before your PR will be merged. This a one-time requirement for dLauncher projects on GitHub.
