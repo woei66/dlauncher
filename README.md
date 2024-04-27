@@ -5,7 +5,7 @@ Welcome to ask questions, new features and enhancements.
 
 # License
 
-Copyright © 2024-2025 dLauncher Contributors
+Copyright (c) dLauncher. All rights reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
